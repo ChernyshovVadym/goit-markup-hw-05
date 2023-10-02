@@ -613,3 +613,8 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+
+.subscribe-mail {
+    display: flex;
+}
