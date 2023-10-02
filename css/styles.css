@@ -639,7 +639,7 @@ button {
     border-radius: 4px;
 }
 
-button-transition {
+.button-transition {
     min-width: 165px;
     height: 40px;
     display: flex;
