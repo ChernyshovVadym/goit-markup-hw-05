@@ -617,4 +617,5 @@ button {
 
 .subscribe-mail {
     display: flex;
+    gap: 24px;
 }
