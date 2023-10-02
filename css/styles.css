@@ -625,7 +625,7 @@ button {
 
 
 
-.button-subscribe {
+.input-subscribe {
     color: #ffffff;
     width: 264px;
     height: 40px;
@@ -637,4 +637,12 @@ button {
     padding-left: 16px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
     border-radius: 4px;
+}
+
+button-transition {
+    min-width: 165px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
