@@ -728,3 +728,18 @@ button {
     color: #2E2F42;
     margin-bottom: 16px;
 }
+
+
+.name {
+    margin-bottom: 8px;
+}
+
+
+.name-info {
+    color: #8e8f99;
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    display: block;
+    margin-bottom: 4px;
+}
