@@ -804,9 +804,14 @@ button {
 }
 
 
-.input-policy {
-    /* visually-hidden */
+.input-policy:checked .user-privacy .privacy {
+    border: none;
+    background-color: #404bbf;
+    fill: #FFFFFF;
+    border-color: #404bbf;
 }
+
+
 
 .user-privacy {
     color: #8e8f99;
