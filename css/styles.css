@@ -769,7 +769,7 @@ button {
     border-color: #4D5AE5;
 }
 
-.text-name:focus .user-text-name {
+.text-name:focus+.user-text-name {
     fill: #4D5AE5;
 }
 
