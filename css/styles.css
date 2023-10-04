@@ -683,10 +683,10 @@ button {
     padding: 72px 24px 24px 24px;
 }
 
-.modal-window:hover,
-.modal-window:focus {
-    fill: #ffffff
+.text-name:focus .user-text-name {
+    fill: #4D5AE5;
 }
+
 
 .send {
     position: absolute;
