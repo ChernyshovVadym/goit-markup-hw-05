@@ -685,11 +685,11 @@ button {
     padding: 72px 24px 24px 24px;
 }
 
-/* 
+
 .modal-window:hover,
 .modal-window:focus {
     fill: #ffffff
-} */
+}
 
 .send {
     position: absolute;
