@@ -831,7 +831,7 @@ button {
 .input-policy:checked+.user-privacy>.privacy {
     border: none;
     background-color: #404bbf;
-    fill: #FFFFFF;
+    fill: #F4F4FD;
     border-color: #404bbf;
 }
 
