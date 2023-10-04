@@ -734,7 +734,10 @@ button {
 
 .name {
     margin-bottom: 8px;
+}
 
+.name-wrap {
+    margin-bottom: 16px;
 }
 
 
@@ -822,7 +825,6 @@ button {
     justify-content: center;
     fill: transparent;
     border: none;
-    fill: #F4F4FD;
     border: 1px solid rgba(46, 47, 66, 0.4);
 }
 
