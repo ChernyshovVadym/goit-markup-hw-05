@@ -777,9 +777,6 @@ button {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.name-comment {
-    margin-bottom: 16px;
-}
 
 .textarea-madal {
     color: rgba(46, 47, 66, 0.4);
