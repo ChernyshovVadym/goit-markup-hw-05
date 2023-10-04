@@ -804,15 +804,6 @@ button {
 }
 
 
-.input-policy:checked+.user-privacy>.privacy {
-    border: none;
-    background-color: #404bbf;
-    fill: #FFFFFF;
-    border-color: #404bbf;
-}
-
-
-
 .user-privacy {
     color: #8e8f99;
     font-size: 12px;
@@ -833,6 +824,13 @@ button {
     border: none;
     fill: #F4F4FD;
     border: 1px solid rgba(46, 47, 66, 0.4);
+}
+
+.input-policy:checked+.user-privacy>.privacy {
+    border: none;
+    background-color: #404bbf;
+    fill: #FFFFFF;
+    border-color: #404bbf;
 }
 
 
